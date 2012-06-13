@@ -2,5 +2,13 @@
 bin
 obj
 
-# mstest test results
-TestResults
+# Runtime Folders (Azure dev environment)
+csx
+
+# nuget
+packages
+
+# user files
+*.suo
+*.user
+
