@@ -1,0 +1,13 @@
+#ignore build dirs
+obj
+bin
+
+#ignore cloud runtime dirs
+csx
+
+#ignore nuget dir
+packages
+
+#ignore user files
+*.suo
+*.user
