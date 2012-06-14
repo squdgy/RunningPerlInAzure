@@ -11,3 +11,6 @@ packages
 #ignore user files
 *.suo
 *.user
+
+#ignore 7zip; users will need to download this on their own
+7za.exe
