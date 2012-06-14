@@ -12,7 +12,6 @@ VS2010 Instructions:
 
 Because the startup task downloads a large zip file and extracts it, the startup will take longer than normal.
 
-Note that the Azure development environment will create directories in your project. 
 You can view the startup logs by browsing to this directory:
 \approot\bin\startuplogs 
 
